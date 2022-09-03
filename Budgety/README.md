@@ -10,5 +10,5 @@ An app that allows user to track their budget
 
 ## How to play
 
-- Download all folder
+- Download folder
 - Run index.html
