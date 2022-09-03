@@ -9,3 +9,8 @@ https://en.wikipedia.org/wiki/Pig_(dice_game)
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
 - Player may also decide on a new winning score needed to win the game by inputting the winning score and pressing 'NEW GAME'
+
+## How to play
+
+- Download all folder
+- Run index.html
