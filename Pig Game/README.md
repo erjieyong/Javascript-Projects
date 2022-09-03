@@ -12,5 +12,5 @@ https://en.wikipedia.org/wiki/Pig_(dice_game)
 
 ## How to play
 
-- Download all folder
+- Download folder
 - Run index.html
