@@ -16,4 +16,4 @@ An recipe search app that utilise data download via the forkify api. (forkify-ap
 - run `npm install` in root folder to run all the dependencies and install if any 
 - run `npm start` to start the server
 
-<img src ="/Forkify_screenshot.jpeg">
+<img src ="Forkify_screenshot.jpeg">
